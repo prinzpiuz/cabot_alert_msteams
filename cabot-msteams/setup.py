@@ -9,5 +9,5 @@ setup(name='cabot-alert-msteams',
       author_email='prinzpiuz@disroot.org',
       url='http://cabotapp.com',
       packages=find_packages(),
-      download_url = '',
+      download_url = 'https://github.com/prinzpiuz/cabot_alert_msteams/releases/tag/1.0.0',
      )
